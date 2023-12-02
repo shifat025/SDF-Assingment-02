@@ -1,0 +1,147 @@
+
+.all-box{
+    width: 300px;
+    height: 300px;
+    border: 1px solid gray;
+    
+}
+.sort-view{
+    border-radius: 3px;
+    background-color: #D3D3D3;
+    border: none;
+    padding: 4px 15px;
+    font-weight: bold;
+}
+.blog-box{
+    
+    padding: 5px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: red;
+}
+.blog{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+}
+.blog-page{
+    background-color: rgb(87, 80, 80);
+}
+.load{
+    display: inline-flex;
+    height: 35px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-shrink: 0;
+    
+}
+
+.button-4{
+    border-radius: 3px;
+    padding: 4px 20px;
+    border: none;
+    background-color: #DEDEDE;
+}
+
+#all-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+    align-items: center;
+    position: relative;
+    left: 10px;
+    top: 20px;
+    
+    
+    
+}
+
+.all-box-img{
+    height: 200px;
+    width: 300px;
+   
+}
+.icon-img{
+    height: 50px;
+    width: 50px;
+    border-radius: 40px;
+}
+.img-pb{
+    position: relative;
+
+    
+}
+.posted-date{
+    height: 30px;
+    position: absolute;
+    right: 20px;
+    top: 160px;
+    color: wheat;
+}
+.img-title{
+    gap: 15px;
+    position: relative;
+    top: 15px;
+}
+.title{
+    font-weight: bold;
+}
+.name-view{
+    position: relative;
+    left: 65px;
+    bottom: 15px;
+}
+.view{
+    position: relative;
+    bottom: 15px;
+}
+
+
+
+.acordiann{
+    display: flex;
+    width: 500px;
+    height: 200px;
+    margin: 0px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 200px;
+    left: 400px;
+   
+}
+
+.verify-icon{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    top: 5px;
+}
+.icon{
+    display: flex;
+    gap: 10px;
+    position: relative;
+}
+
+.sorry{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 20px;
+    
+}
+.oops{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 20px;
+}
+.oops-1{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 20px;
+}
